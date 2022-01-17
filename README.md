@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Shiva Raj
-- 👀 I’m interested in coding,programming and web development
-- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Software Engineer Roles
 - 📫 How to reach me -> linkedin.com/in/shiva-raj-6033b71a3
 
